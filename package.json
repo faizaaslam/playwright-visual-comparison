@@ -1,0 +1,23 @@
+{
+  "name": "playwright-visual-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "Faiza A.",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.23.4",
+    "@types/node": "^18.0.3",
+    "allure-playwright": "^2.0.0-beta.18",
+    "chai": "^4.3.6",
+    "playwright": "^1.23.1",
+    "playwright-cli": "^0.180.0",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4",
+    "fs": "^0.0.1-security",
+    "js-yaml": "^4.1.0"
+  }
+}
